@@ -5,7 +5,7 @@ layout: single
 header:
   overlay_image: /assets/Images/main-teaser.jpg
   overlay_filter: 0.5
-  <b>
+  <br>
    For if each Star is little more a mathematical Point,
 
 located upon the Hemisphere of Heaven by Right Ascension and Declination,
@@ -23,5 +23,5 @@ to us unreadable, incalculable.
 A lonely, uncompensated, perhaps even impossible Task,---
 
 yet some of us must ever be seeking, I suppose.
-  </b?
+  </br>
 ---
