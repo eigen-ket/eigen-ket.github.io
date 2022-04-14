@@ -26,7 +26,11 @@ A lonely, uncompensated, perhaps even impossible Task,---
 yet some of us must ever be seeking, I suppose.
 
 $$ e^{i\pi} = -1$$
+
 $$ \text{For if each Star is little more a mathematical Point,}            $$
+
 $$ \text{located upon the Hemisphere of Heaven by Right Ascension and Declination,}$$
+
+$$ e^{i\pi} = -1$$
   <br>
 
