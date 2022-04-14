@@ -24,5 +24,7 @@ to us unreadable, incalculable.
 A lonely, uncompensated, perhaps even impossible Task,---
 
 yet some of us must ever be seeking, I suppose.
+
+$$ e^{i\pi} = -1$$
   <br>
 
