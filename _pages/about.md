@@ -28,25 +28,25 @@ header:
 
 $$ e^{i\pi} = -1$$
 
-$$ \textbf{ ``For if each Star is little more a mathematical Point,}            $$
+$$ \text{ ``For if each Star is little more a mathematical Point,}            $$
 
-$$ \textbf{located upon the Hemisphere of Heaven by Right Ascension and Declination,}$$
+$$ \text{located upon the Hemisphere of Heaven by Right Ascension and Declination,}$$
 
-$$ \textbf{then all the Stars, taken together, tho' innumerable,}$$
+$$ \text{then all the Stars, taken together, tho' innumerable,}$$
 
-$$\textbf{must like any other set of points,}$$
+$$\text{must like any other set of points,}$$
 
-$$ \textbf{in turn represent some single gigantick Equation,}           $$
+$$ \text{in turn represent some single gigantick Equation,}           $$
 
-$$ \textbf{to the mind of God as straightforward as, say, the Equation of a Sphere,}$$
+$$ \text{to the mind of God as straightforward as, say, the Equation of a Sphere,}$$
 
-$$\textbf{--- to us unreadable, incalculable.}$$
+$$\text{--- to us unreadable, incalculable.}$$
 
-$$\textbf{A lonely, uncompensated, perhaps even impossible Task,}$$
+$$\text{A lonely, uncompensated, perhaps even impossible Task,}$$
 
-$$\textbf{--- yet some of us must ever be seeking, I suppose."}$$
+$$\text{--- yet some of us must ever be seeking, I suppose."}$$
 
-$$\textbf{- Thomas Pynchon, \textit{ Mason \& Dickson} }$$
+$$\text{- Thomas Pynchon, }\textit{ Mason \& Dickson }$$
 
 
 
