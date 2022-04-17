@@ -50,7 +50,7 @@
    ========================================================================== */
 
 * {
-  font-family: $'Computer Modern Serif';
+  font-family: "Computer Modern Serif", serif;
 }
 
 #main {
@@ -202,13 +202,13 @@ div.donation-btn {
 
   dt {
     margin-top: 1em;
-    font-family: $'Computer Modern Serif';
+    font-family: "Computer Modern Serif", serif;
     font-weight: bold;
   }
 
   dd {
     margin-left: 1em;
-    font-family: $'Computer Modern Serif';
+    font-family: "Computer Modern Serif", serif;
     font-size: $type-size-6;
   }
 
