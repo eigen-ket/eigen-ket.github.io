@@ -28,7 +28,7 @@ header:
 
 $$ e^{i\pi} = -1$$
 
-$$ \text{ \textbf{``For if each Star is little more a mathematical Point,}}            $$
+$$ \text{ \textbf{For if each Star is little more a mathematical Point,}}            $$
 
 $$ \text{\textbf{located upon the Hemisphere of Heaven by Right Ascension and Declination,}}$$
 
@@ -44,7 +44,7 @@ $$ \text{\textbf{--- to us unreadable, incalculable.}}$$
 
 $$ \text{\textbf{A lonely, uncompensated, perhaps even impossible Task,}}$$
 
-$$ \text{\textbf{--- yet some of us must ever be seeking, I suppose."}}$$
+$$ \text{\textbf{--- yet some of us must ever be seeking, I suppose.}}$$
 
 $$ \text{\textbf{- Thomas Pynchon, \textit{ Mason \& Dickson} }}$$
 
